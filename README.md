@@ -30,7 +30,7 @@ The project provides various visualizations and insights about the Titanic datas
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MEHRAN-DEV-AI/TITANIC-DATA-ANALYSIS/blob/main/LICENSE) file for details.
 
 # Acknowledgements
 The Titanic dataset used in this project is provided by Kaggle.
