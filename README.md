@@ -1,7 +1,7 @@
 # TITANIC-DATA-ANALYSIS
 
 # Direct Access To The Notebook
-[CLICK HERE]() TO SEE THE NOTEBOOK DIRECTLY.
+[CLICK HERE](https://nbviewer.org/github/MEHRAN-DEV-AI/TITANIC-DATA-ANALYSIS/blob/main/TITANIC%20ANALYSIS.ipynb) TO SEE THE NOTEBOOK DIRECTLY.
 # Overview
  This project involves analyzing the Titanic dataset to uncover insights about the passengers aboard the Titanic. 
  The dataset provides information such as age, sex, class, and survival status of the passengers. The goal of this project is to explore the data, perform data cleaning, and visualize various aspects of the dataset to understand the factors that influenced survival.
